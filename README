@@ -1,0 +1,7 @@
+ARDUINO BASED ARPEGGIATOR V2
+
+This is very similar to the original project, except that it is based on home etched PCBs designed in EAGLE. There have been some changes to the Arduino code to accommodate the new pin mappings etc.
+
+The PIC16F688 is only required if you need to support MIDI synch. The code for this PIC is included with the original Arpeggiator project
+
+Se the original project for instructions on how to use the arp
